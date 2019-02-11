@@ -143,10 +143,14 @@
   <ItemGroup>
     <ClCompile Include="LoginDetails.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Media.cpp" />
+    <ClCompile Include="MediaDetails.cpp" />
     <ClCompile Include="sqlite3.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LoginDetails.h" />
+    <ClInclude Include="Media.h" />
+    <ClInclude Include="MediaDetails.h" />
     <ClInclude Include="sqlite3.h" />
   </ItemGroup>
   <ItemGroup>
